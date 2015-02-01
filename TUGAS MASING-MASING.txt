@@ -1,0 +1,5 @@
+Anis Fitriyah - View Quiz
+Prayoga Septo - Login (Encrypt)
+Sebastian - Register
+Tantri Kusumastuti - Upload Photo
+Windy Nurbani - Create Quiz
